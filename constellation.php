@@ -35,72 +35,84 @@ class Constellation
         }
         $data = array(
             '1' => array(
+                'key'       => 1,
                 'id'        => 'Aquarius',
                 'name'      => '水瓶座',
                 'start_date'=> '01-20',
                 'end_date'  => '02-18'
             ),
             '2' => array(
+                'key'       => 2,
                 'id'        => 'Pisces',
                 'name'      => '双鱼座',
                 'start_date'=> '02-10',
                 'end_date'  => '03-20'
             ),
             '3' => array(
+                'key'       => 3,
                 'id'        => 'Aries',
                 'name'      => '白羊座',
                 'start_date'=> '03-21',
                 'end_date'  => '04-19'
             ),
             '4' => array(
+                'key'       => 4,
                 'id'        => 'Taurus',
                 'name'      => '金牛座',
                 'start_date'=> '04-20',
                 'end_date'  => '05-20'
             ),
             '5' => array(
+                'key'       => 5,
                 'id'        => 'Gemini',
                 'name'      => '双子座',
                 'start_date'=> '05-21',
                 'end_date'  => '06-21'
             ),
             '6' => array(
+                'key'       => 6,
                 'id'        => 'Cancer',
                 'name'      => '巨蟹座',
                 'start_date'=> '06-22',
                 'end_date'  => '07-22'
             ),
             '7' => array(
+                'key'       => 7,
                 'id'        => 'Leo',
                 'name'      => '狮子座',
                 'start_date'=> '07-23',
                 'end_date'  => '08-22'
             ),
             '8' => array(
+                'key'       => 8,
                 'id'        => 'Virgo',
                 'name'      => '处女座',
                 'start_date'=> '08-23',
                 'end_date'  => '09-22'
             ),
             '9' => array(
+                'key'       => 9,
                 'id'        => 'Libra',
                 'name'      => '天秤座',
                 'start_date'=> '09-23',
                 'end_date'  => '10-23'
             ),
             '10' => array(
+                'key'       => 10,
                 'id'        => 'Scorpio',
                 'name'      => '天蝎座',
                 'start_date'=> '10-24',
                 'end_date'  => '11-22'
             ),
             '11' => array(
+                'key'       => 11,
                 'id'        => 'Sagittarius',
                 'name'      => '射手座',
                 'start_date'=> '11-23',
                 'end_date'  => '12-21'
             ),
             '12' => array(
+                'key'       => 12,
                 'id'        => 'Capricorn',
                 'name'      => '水瓶座',
                 'start_date'=> '12-22',
