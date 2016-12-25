@@ -114,7 +114,7 @@ class Constellation
             '12' => array(
                 'key'       => 12,
                 'id'        => 'Capricorn',
-                'name'      => '水瓶座',
+                'name'      => '魔羯座',
                 'start_date'=> '12-22',
                 'end_date'  => '01-19'
             )
